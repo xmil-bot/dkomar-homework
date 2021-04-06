@@ -1,2 +1,5 @@
 first commit for homework ITEA lesson 2
-simulate merge conflict
+simulate 
+	merge
+		conflict
+
